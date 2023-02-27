@@ -1,5 +1,5 @@
 /*
-As a web developer for a publishing firm, another problem has come up. Your boss would like you to create an algorithm that can determine the difference between non-vowel and vowel characters.
+As a web developer for a publishing firm, another problem has come up for the company. Your boss would like you to create an algorithm that can determine the difference between non-vowel and vowel characters.
 
 Write a function called characterCounter that takes in one parameter called bookText. You can expect that this parameter will always be a string representing some chunk of text from a novel. 
 

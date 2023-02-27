@@ -14,7 +14,9 @@ If your function was given the string of "Hello World!", your function would ret
     numOfNonVowels: 9
 }
 
-Note that the number of non vowels incldues the spaces and punctuation mark characters. 
+Note: Notice that the number of non vowels incldues the spaces and punctuation mark characters. 
+
+Note 2: For this algorithm, you do not need to consider the letter "y" a vowel. 
 */
 
 // Write your code below:
